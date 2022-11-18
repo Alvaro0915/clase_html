@@ -1,3 +1,8 @@
 .bg-goku{
-    background-color: red;
+    background-color: rgb(233, 151, 43);
+}
+
+.bg-vegeta{
+    color: white;
+    background-color: rgb(43, 43, 43);
 }
